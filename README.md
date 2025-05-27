@@ -7,7 +7,6 @@ Trabalho de sistemas de ordenação
 ```
 gcc src/main.c -o bin/linux/main
 bin/linux/main
-./
 ```
 
 ### Windows
