@@ -1,5 +1,5 @@
 # Trabalho A2
-Sistema desenvolvido na aula de laboratório de programação
+Trabalho de sistemas de ordenação
 
 ### Compilar e Rodar
 
